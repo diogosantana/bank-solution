@@ -1,0 +1,10 @@
+services:
+  backend:
+    build: bank-solution
+    ports:
+      - 8080:8080
+    networks:
+      - bank-solution
+
+networks:
+  bank-solution:
