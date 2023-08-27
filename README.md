@@ -34,4 +34,8 @@ docker compose up
 ## Roadmap
 
 - Give the balance on `/api/transactions/history`
+- Add postgresql profile
 - Add security
+- Split project into Customer, Account, and Transaction microservices
+- Create a web frontend
+- Create a mobile app
