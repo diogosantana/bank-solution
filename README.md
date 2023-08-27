@@ -24,7 +24,7 @@ docker run -it --rm -p 8080:8080 bank-solution
 ## Run with docker-compose
 
 ```bash
-
+docker compose up
 ```
 
 ## Postman Collection
